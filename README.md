@@ -2,7 +2,7 @@
 
 ## Installation and Getting Started
 
-Using your <strong>CLI,</strong> (bash for Windows, terminal for MAC) clone the repository to your local machine 
+Using your <strong>CLI,</strong> (bash for Windows, terminal for Mac) clone the repository to your local machine 
 
 ```bash
 $ git clone [repository]
