@@ -32,7 +32,7 @@ Our landing page will start with a preloader welcoming users to the application.
 
   Earn Stars           |  Learn New Things |  Play Games  |  
 :-------------------------:|:-------------------------: |:-------------------------: |
-![stars](https://media.giphy.com/media/Idxq185yIzLl4Aubca/giphy.gif"g)  |  ![learnThings](https://media.giphy.com/media/idd7dpLZrK2V5P2aZH/giphy.gif)  |  ![ourGames](https://media.giphy.com/media/fYMh7ELqoll0mPfycN/giphy.gif)  |
+![stars](https://media.giphy.com/media/Idxq185yIzLl4Aubca/giphy.gif)  |  ![learnThings](https://media.giphy.com/media/idd7dpLZrK2V5P2aZH/giphy.gif)  |  ![ourGames](https://media.giphy.com/media/fYMh7ELqoll0mPfycN/giphy.gif)  |
 
 ## Technologies Used
 
