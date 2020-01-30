@@ -53,9 +53,9 @@ React.js           |  Node.js |  MongoDB  |  JSON Web Token
 
 ## Project Creator and Maintainers
 
-#### Phillip Laub
+#### Phillip Laub 
 <ul style="font-size: 20px;">
-  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">LinkedIn</a></li>
+  <li><img href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" <a href="https://www.linkedin.com/in/phillip-laub-642925115/"></a></li>
   <li><a href="https://github.com/PhillipLaub">GitHub</a></li>
   <li><a href="https://philliplaub.github.io/Responsive-Portfolio/portfolio.html">Portfolio</a></li>
 </ul>
