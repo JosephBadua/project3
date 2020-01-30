@@ -50,3 +50,33 @@ React.js           |  Node.js |  MongoDB  |  JSON Web Token
 <li><a href="https://reactjs.org/docs/context.html">Context API</a> was used to create global variables which we used to share information across our file structure</li>
 <li><a href="https://www.npmjs.com/package/sweetalert">Sweet Alert</a> was used as a simple and appealing way to alert users through modals of their success upon completing a game</li>
 </ul>
+
+## Project Creator and Maintainers
+
+<h1>Phillip Laub</h1>
+<ul style="font-size: 20px;">
+  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">LinkedIn</a><li>
+  <li><a href="https://github.com/PhillipLaub">GitHub</a><li>
+  <li><a href="https://philliplaub.github.io/Responsive-Portfolio/portfolio.html">Portfolio</a><li>
+</ul>
+
+<h1>Phillip Laub</h1>
+<ul style="font-size: 20px;">
+  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">LinkedIn</a><li>
+  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">GitHub</a><li>
+  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">Portfolio</a><li>
+</ul>
+
+<h1>Phillip Laub</h1>
+<ul style="font-size: 20px;">
+  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">LinkedIn</a><li>
+  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">GitHub</a><li>
+  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">Portfolio</a><li>
+</ul>
+
+<h1>Phillip Laub</h1>
+<ul style="font-size: 20px;">
+  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">LinkedIn</a><li>
+  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">GitHub</a><li>
+  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">Portfolio</a><li>
+</ul>
