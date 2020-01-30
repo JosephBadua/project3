@@ -7,7 +7,7 @@ Using your <strong>CLI,</strong> (bash for Windows, terminal for Mac) clone the 
 ```bash
 $ git clone [repository]
 ```
-From there, change your directory to the project and install the <strong>necessary dependencies.</strong> You also need to have the ![nodemon](https://www.npmjs.com/package/nodemon) package to run the Express server concurrently with the react-app. Use the following commands on your CLI when at the main repository's folder.</h2>
+From there, change your directory to the project and install the <strong>necessary dependencies.</strong> You also need to have the <a href="https://www.npmjs.com/package/nodemon">Nodemon</a> package to run the Express server concurrently with the react-app. Use the following commands on your CLI when at the main repository's folder.</h2>
 
 ```bash
 $ npm install
