@@ -55,7 +55,7 @@ React.js           |  Node.js |  MongoDB  |  JSON Web Token
 
 #### Phillip Laub 
 <ul style="font-size: 20px;">
-  <li><img href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" <a href="https://www.linkedin.com/in/phillip-laub-642925115/"></a></li>
+  <li><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" <a href="https://www.linkedin.com/in/phillip-laub-642925115/"></a></li>
   <li><a href="https://github.com/PhillipLaub">GitHub</a></li>
   <li><a href="https://philliplaub.github.io/Responsive-Portfolio/portfolio.html">Portfolio</a></li>
 </ul>
