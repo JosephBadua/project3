@@ -1,5 +1,29 @@
 # Star Jump
 
+## Installation and Getting Started
+
+Using your <strong>Git CLI,</strong> clone the repository to your local machine 
+
+```bash
+$ git clone [repository]
+```
+From there, change your directory to the project and install the <strong>necessary dependencies.</strong> You also need to have the ![nodemon](https://www.npmjs.com/package/nodemon) package to run the Express server concurrently with the react-app. Use the following commands on your CLI when at the main repository's folder.</h2>
+
+```bash
+$ npm install
+$ npm install nodemon
+```
+Lastly, change directories into the <strong>CLIENT folder</strong> and install its respective dependencies using the same command on your CLI
+
+```bash
+$ npm install
+```
+
+After that is finished, change directories back to the main repository folder and <strong>run the command</strong> to launch the application
+
+```bash
+$ npm run dev
+``` 
 
 
 ## Technologies Used
