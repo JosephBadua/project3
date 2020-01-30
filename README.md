@@ -1,9 +1,9 @@
 <div>
-  <img style="align: left" src="http://bestanimations.com/Signs&Shapes/Stars/animated-gold-star25.gif#.XjIW8DV8E7A.link">
-  <h1 style="align: middle;
+  <img style="float: left" src="http://bestanimations.com/Signs&Shapes/Stars/animated-gold-star25.gif#.XjIW8DV8E7A.link">
+  <h1 style="float: left;
   font-size: 70px;
   text-align: center;"> Welcome to Star Jump! </h1>
-  <img style="align: right" src="http://bestanimations.com/Signs&Shapes/Stars/animated-gold-star25.gif#.XjIW8DV8E7A.link">
+  <img style="float: left" src="http://bestanimations.com/Signs&Shapes/Stars/animated-gold-star25.gif#.XjIW8DV8E7A.link">
 </div>
 
 <h2 style="font-size: 20px; width: 100%; text-align: center"><strong><span style="font-size: 30px"><a href="https://powerful-tundra-87228.herokuapp.com/">S</span>tar Jump</strong></a> is an online application that takes a holistic approach to cultivate young learning habits through bright and engaging easy-to-start, fun-to-play games; encouraging them to continue through a reward-based system with “stars” and keeping persistent track of their progress through user logins.</h2>
