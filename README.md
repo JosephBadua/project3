@@ -24,7 +24,17 @@ After that is finished, change directories back to the main repository folder an
 ```bash
 $ npm run dev
 ``` 
+## Overview
 
+Our landing page will start with a preloader welcoming users to the application. They will be able to see all of our current list of games as well as log on or register if they are a new user.
+
+<img width="auto" height="auto" style="border: 10px solid darkcyan" src="https://i.imgur.com/PbqoFUk.png">
+
+<p align="center">
+  <img width="auto" height="auto" style="border: 10px solid darkcyan" src="https://media.giphy.com/media/Idxq185yIzLl4Aubca/giphy.gif">
+  <img width="auto" height="auto" style="border: 10px solid darkcyan" src="https://media.giphy.com/media/idd7dpLZrK2V5P2aZH/giphy.gif">
+  <img width="auto" height="auto" style="border: 10px solid darkcyan" src="https://media.giphy.com/media/fYMh7ELqoll0mPfycN/giphy.gif">
+</p>
 
 ## Technologies Used
 
