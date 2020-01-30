@@ -55,13 +55,28 @@ React.js           |  Node.js |  MongoDB  |  JSON Web Token
 
 #### Phillip Laub 
 <ul style="font-size: 20px;">
-  <li>
-    <a href="https://github.com/PhillipLaub">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
-    </a>
- </li>
-  <li><ahref="https://www.linkedin.com/in/phillip-laub-642925115/">Linkedin</a></li>
+  <li><a href="https://github.com/PhillipLaub">Github</a></li>
+  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">Linkedin</a></li>
   <li><a href="https://philliplaub.github.io/Responsive-Portfolio/portfolio.html">Portfolio</a></li>
+</ul>
+
+#### Michael Johnston
+<ul style="font-size: 20px;">
+  <li><a href="https://github.com/mjjohnston55">Github</a></li>
+  <li><a href="https://www.linkedin.com/in/mike-johnston-48973b18a/">Linkedin</a></li>
+</ul>
+
+#### Thomas Nelson
+<ul style="font-size: 20px;">
+  <li><a href="https://github.com/thnlsn">Github</a></li>
+  <li><a href="https://www.linkedin.com/in/thnlsn/">Linkedin</a></li>
+</ul>
+
+#### Joseph Badua
+<ul style="font-size: 20px;">
+  <li><a href="https://github.com/JosephBadua">Github</a></li>
+  <li><a href="https://www.linkedin.com/in/joseph-badua-60aaa7188/">Linkedin</a></li>
+  <li><a href="http://www.josephbadua.com/">Portfolio</a></li>
 </ul>
 
 
