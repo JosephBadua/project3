@@ -53,30 +53,10 @@ React.js           |  Node.js |  MongoDB  |  JSON Web Token
 
 ## Project Creator and Maintainers
 
-<h1>Phillip Laub</h1>
+#### Phillip Laub
 <ul style="font-size: 20px;">
-  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">LinkedIn</a><li>
-  <li><a href="https://github.com/PhillipLaub">GitHub</a><li>
-  <li><a href="https://philliplaub.github.io/Responsive-Portfolio/portfolio.html">Portfolio</a><li>
+  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">LinkedIn</a></li>
+  <li><a href="https://github.com/PhillipLaub">GitHub</a></li>
+  <li><a href="https://philliplaub.github.io/Responsive-Portfolio/portfolio.html">Portfolio</a></li>
 </ul>
 
-<h1>Phillip Laub</h1>
-<ul style="font-size: 20px;">
-  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">LinkedIn</a><li>
-  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">GitHub</a><li>
-  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">Portfolio</a><li>
-</ul>
-
-<h1>Phillip Laub</h1>
-<ul style="font-size: 20px;">
-  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">LinkedIn</a><li>
-  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">GitHub</a><li>
-  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">Portfolio</a><li>
-</ul>
-
-<h1>Phillip Laub</h1>
-<ul style="font-size: 20px;">
-  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">LinkedIn</a><li>
-  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">GitHub</a><li>
-  <li><a href="https://www.linkedin.com/in/phillip-laub-642925115/">Portfolio</a><li>
-</ul>
