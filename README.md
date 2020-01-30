@@ -19,4 +19,4 @@
 
 Solarized dark             |  Solarized Ocean |  Solarized Ocean  |  Solarized Ocean
 :-------------------------:|:-------------------------: |:-------------------------: |:-------------------------:
-![react](https://cdn.auth0.com/blog/react-js/react.png)  |  ![node](https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png)  |  ![mongo](https://mpng.pngfly.com/20180802/rea/kisspng-mongodb-nosql-document-oriented-database-portable-thessalon%C3%ADki-mongodb-user-group-thessalon%C3%ADki-g-5b639f094f4492.3705371015332554333247.jpg)  |  ![json](https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2019/07/Screen-Shot-2018-10-11-at-1.40.06-PM.png?fit=1016%2C1034&ssl=1)
+![react](https://cdn.auth0.com/blog/react-js/react.png)  |  ![node](https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png)  |  ![mongo](https://xebialabs.com/wp-content/uploads/files/tool-chest/mongodb.jpg)  |  ![json](https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2019/07/Screen-Shot-2018-10-11-at-1.40.06-PM.png?fit=1016%2C1034&ssl=1)
