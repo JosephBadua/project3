@@ -1,11 +1,7 @@
-<div style="width: 50%; display: flex; margin-left: auto; margin-right: auto;"><img style="display:inline-block; vertical-align: middle; " src="http://bestanimations.com/Signs&Shapes/Stars/animated-gold-star25.gif#.XjIW8DV8E7A.link"><h1 style="display:inline-block;  background: -webkit-linear-gradient(right, orange , yellow, green, cyan, blue, violet);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-size: 70px;
-  line-height: 60px;
-  text-align: center;"> Welcome to Star Jump! </h1>
-  <img style="display:inline-block" src="http://bestanimations.com/Signs&Shapes/Stars/animated-gold-star25.gif#.XjIW8DV8E7A.link">
-<br></div>
+<div>
+  <img style="align: left" src="http://bestanimations.com/Signs&Shapes/Stars/animated-gold-star25.gif#.XjIW8DV8E7A.link">
+  <img style="align: right" src="http://bestanimations.com/Signs&Shapes/Stars/animated-gold-star25.gif#.XjIW8DV8E7A.link">
+</div>
 
 <h2 style="font-size: 20px; width: 100%; text-align: center"><strong><span style="font-size: 30px"><a href="https://powerful-tundra-87228.herokuapp.com/">S</span>tar Jump</strong></a> is an online application that takes a holistic approach to cultivate young learning habits through bright and engaging easy-to-start, fun-to-play games; encouraging them to continue through a reward-based system with “stars” and keeping persistent track of their progress through user logins.</h2>
 
@@ -36,7 +32,7 @@ $ npm install
 <h2 style="font-size: 20px; width: 100%; text-align: center">After that is finished, change directories back to the main repository folder and <strong>run the command</strong> to launch the application</h2>
 
 ```bash
-$ npm run dev
+$ npm run devho
 ``` 
 
 <div style="width: 80%; display: flex; margin-left: auto; margin-right: auto;"><img style="display:inline-block; vertical-align: middle; " src="http://bestanimations.com/Signs&Shapes/Stars/animated-gold-star25.gif#.XjIW8DV8E7A.link"><h1 style="display:inline-block; 
@@ -80,7 +76,7 @@ $ npm run dev
 <img alt="reactImg" style="height: 300px; width: 300px; display: in-line" src="https://cdn.auth0.com/blog/react-js/react.png">
 <img alt="nodeJs" style="height: 300px; width: 300px; display: in-line" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png">
 <img alt="MongoDB" style="height: 300px; width: 300px; display: in-line" src="https://jet.hazelcast.org/wp-content/uploads/2019/09/logo-mongodb.png">
-<img alt="JsonWebToken" style="height: 300px; width: 300px; display: in-line" src="https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2019/07/Screen-Shot-2018-10-11-at-1.40.06-PM.png?fit=1016%2C1034&ssl=1">
+<img alt="JsonWebToken" src="https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2019/07/Screen-Shot-2018-10-11-at-1.40.06-PM.png?fit=1016%2C1034&ssl=1">
 </div>
 
 <ul style="font-size: 20px;">
